@@ -1,5 +1,5 @@
 # Unity-Advanced-Weapon-System
-A modular and feature-rich weapon system for Unity, including Raycast shooting, ammo management, and integrated audio/UI feedback.
+Feature-rich weapon system for Unity, including Raycast shooting, ammo management, and integrated audio/UI feedback.
 A professional-grade weapon system framework designed for FPS/TPS projects in Unity.
 
 ## Key Features
