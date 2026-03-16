@@ -106,7 +106,7 @@ public class GunSystem : MonoBehaviour
     IEnumerator Reload()
     {
         isReloading = true;
-        if (ammoText != null) ammoText.text = "Dolduruluyor...";
+        if (ammoText != null) ammoText.text = "Dolduruluyor";
 
         // Şarjör değiştirme sesini çal
         if (audioSource != null && reloadSound != null)
